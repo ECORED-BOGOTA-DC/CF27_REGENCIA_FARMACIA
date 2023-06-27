@@ -60,24 +60,151 @@
   background-image: url("../assets/curso/portada/banner-interno.png") !important
 
 
-/// ESTILOS GLOBALES ----------------
+/// ESTILOS GLOBALES -------------------------------------------------------------------------------------------------------------
 
 .cajon.color-acento-contenido 
     background-color: #DCFBFF
 
-// ESTILOS TEMA 1 ------------------
+.cajon.color-secundario
+    background-color: #E4DDFA
+
+.tarjeta-morada
+  background-color: #EEEAFC
+
+// TAPS A -----------------------------------------------------------------------
 
 
-// SLYDER A ----------
+.tabs-a__tab 
+  display: block
+  width: 130%
+  text-align: left
+  background-color: #F6F6F6
+  padding: 15px 20px
+  border-radius: 5px
+  color: #111e61
+  line-height: 1.2em
+  @media (max-width: 500px)
+    width: 100%
+
+.tabs-a__content-item--active 
+  animation: tab-content-active 0.5s ease-in-out forwards
+  width: 92%
+  position: relative
+  left: 10%
+  @media (max-width: 500px)
+    width: 100%
+    left: 0%
+
+.tabs-a.color-secundario .tabs-a__tab__selected 
+  color: #ffffff !important
+
+// ESTILOS TEMA 1 ---------------------------------------------------------------------------------------------------------------
+
+
+// SLYDER A ---------------------------------------------------------------
   
 .bg-Slyder1
   background-image: url("../assets/curso/temas/tema1/bg-Slyder1.png")
   background-size: 100% 100%
 
 .slyder-a__bullets__item--active
-  background-color: #7E5EE3
-  border-color: #7E5EE3
+  background-color: #7E5EE3 !important
+  border-color: #7E5EE3 !important
   opacity: 1
 
-.slyder-a__bullets__item 
+.slyder-a__bullets__item
   background-color: #C6C2F3
+  border: 1px solid #C6C2F3
+
+
+
+// ESTILOS TEMA 2 ---------------------------------------------------------------------------------------------------------------
+
+
+// background fondo --------------------------------------------------
+
+.bg-fondo1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 90px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema2/bg-fondo1.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+    @media (max-width: 500px)
+      background-repeat: repeat
+      margin-top: 0px
+
+
+////// SlyderF ----------------------------------
+
+.tarjeta-gris
+  background-color: #F6F6F6
+
+.fa-chevron-right:before 
+  content: "\f138"
+  color: #FF9D00
+
+.fa-chevron-left:before 
+  content: "\f137"
+  color: #FF9D00
+
+
+/// linea punteada---------------------------------------
+
+.l-p
+  border-bottom: dashed 1px #b0c0d2 !important
+
+
+// tarjeta animada -----------------------------------------
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 0.9rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #81D4FA
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 1em
+
+
+// background fondo --------------------------------------------------
+
+.bg-fondo2
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 10px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema3/bg-fondo2.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+    @media (max-width: 500px)
+      background-repeat: repeat
+      margin-top: 0px
