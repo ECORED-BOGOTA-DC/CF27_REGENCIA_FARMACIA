@@ -19,8 +19,8 @@
             p.mb-0 <b>(Resolución 4816 de 2008, Artículo 1)</b>
           
 
-        .cajon.color-acento-botones.p-4
-          p Para comprender la importancia de la tecnovigilancia, es muy importante revisar el concepto sobre DM (Dispositivos médicos) los cuales incluyen a todos los equipos biomédicos utilizados en la asistencia a los pacientes en el entorno hospitalario, sin importar el nivel de complejidad en el que se encuentren (ver figura 1). 
+        .cajon.color-secundario.p-4
+          p.mb-0 Para comprender la importancia de la tecnovigilancia, es muy importante revisar el concepto sobre DM (Dispositivos médicos) los cuales incluyen a todos los equipos biomédicos utilizados en la asistencia a los pacientes en el entorno hospitalario, sin importar el nivel de complejidad en el que se encuentren (ver figura 1). 
 
 
     .row.justify-content-center.align-items-center.mt-5
@@ -35,8 +35,8 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        .cajon.color-acento-botones.p-4
-          p Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
 
         p.mt-3 La metodología de las estrategias de vigilancia epidemiológica estructuradas al interior del programa nacional de tecnovigilancia para eventos o incidentes puede ser:
 
@@ -86,8 +86,8 @@
       .col-lg-8
         p Es el conjunto de actividades que tiene por objeto la identificación y cualificación de efectos indeseados ocasionados por defectos en la calidad de los reactivos de diagnóstico in vitro, así como la identificación de los factores de riesgo o características que puedan estar relacionadas con estos.
 
-        .cajon.color-acento-botones.p-4
-          p Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
+        .cajon.color-secundario.p-4
+          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
        
       .col-lg-4
         figure
@@ -124,7 +124,7 @@
 
       p <b>Este procedimiento es:</b>
 
-    LineaTiempoD.color-primario.mt-5
+    LineaTiempoD.color-acento-contenido.mt-5
       .row(numero="1" titulo="Notificación")
         .col-md-8.mb-4.mb-md-0
           ul.lista-ul--color.text-small.fa-ul2
@@ -235,8 +235,8 @@
           img(src='@/assets/curso/temas/tema4/img15.png', alt='alt')
           p.text-center Nota. Programa Nacional de Tecnovigilancia INVIMA.
 
-        .cajon.color-acento-botones.p-4.mt-3
-          p El reporte se debe realizar a través del <b>formato reporte de sospecha de eventos adversos a medicamentos (FOREAM)</b>, este formato se puede encontrar en el material complementario, con el nombre FOREAM formato reporte de sospecha.
+        .cajon.color-acento-contenido.p-4.mt-3
+          p.mb-0 El reporte se debe realizar a través del <b>formato reporte de sospecha de eventos adversos a medicamentos (FOREAM)</b>, este formato se puede encontrar en el material complementario, con el nombre FOREAM formato reporte de sospecha.
 
 
 
