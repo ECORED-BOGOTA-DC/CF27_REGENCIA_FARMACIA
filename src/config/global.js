@@ -304,7 +304,7 @@ export default {
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador Fullstack-2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
