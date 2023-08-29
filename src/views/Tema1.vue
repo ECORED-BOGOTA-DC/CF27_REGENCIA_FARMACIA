@@ -21,14 +21,6 @@
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
-              p La responsabilidad del gobierno, se debe orientar a garantizar  la calidad de los medicamentos,  la tecnología biomédica y los dispositivos médicos, donde los esfuerzos de los laboratorios fabricantes y empresas comercializadoras,  aseguren que los productos farmacéuticos disponibles para los pacientes / clientes, sean seguros y efectivos, razón por la cual los programas nacionales de farmacovigilancia, tecnovigilancia  y reactivo vigilancia, son  un compromiso no solo del gobierno, sino de todo el sector farmacéutico; en la cual  la responsabilidad social y ética,  tiene una directa relación con la salud individual y colectiva de los colombianos.  
-
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/tema1/img2.svg', alt='alt')
-
-          .row
-            .col-md-6.mb-4.mb-md-0
               p La responsabilidad del gobierno, se debe orientar a garantizar  la calidad de los medicamentos,  la tecnología biomédica y los dispositivos médicos, donde los esfuerzos de los laboratorios fabricantes y empresas comercializadoras,  aseguren que los productos farmacéuticos disponibles para los pacientes / clientes, sean seguros y efectivos, razón por la cual los programas nacionales de farmacovigilancia, tecnovigilancia  y reactivo vigilancia, son  un compromiso no solo del gobierno, sino de todo el sector farmacéutico; en la cual  la responsabilidad social y ética,  tiene una directa relación con la salud individual y colectiva de los colombianos.
 
             .col-md-6

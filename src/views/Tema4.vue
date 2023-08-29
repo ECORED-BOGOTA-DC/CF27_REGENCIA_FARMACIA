@@ -36,7 +36,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-8
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
+          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos</b> y <b>dispositivos médicos</b> que se encuentran en el material complementario.
 
         p.mt-3 La metodología de las estrategias de vigilancia epidemiológica estructuradas al interior del programa nacional de tecnovigilancia para eventos o incidentes puede ser:
 
@@ -87,7 +87,7 @@
         p Es el conjunto de actividades que tiene por objeto la identificación y cualificación de efectos indeseados ocasionados por defectos en la calidad de los reactivos de diagnóstico in vitro, así como la identificación de los factores de riesgo o características que puedan estar relacionadas con estos.
 
         .cajon.color-secundario.p-4
-          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos y dispositivos médicos</b> que se encuentran en el material complementario.
+          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos</b> y <b>dispositivos médicos</b> que se encuentran en el material complementario.
        
       .col-lg-4
         figure

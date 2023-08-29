@@ -108,7 +108,7 @@
         .cajon.color-acento-contenido.p-4.mb-3
           p.mb-0 Para profundizar el tema de farmacovigilancia, se invita al aprendiz a consultar los documentos <b>Farmacovigilancia pacientes y Farmacovigilancia profesionales de la salud</b>, ubicados en el material complementario.
 
-        p A continuación, se presenta un esquema que explica el ciclo de vida de los dispositivos médicos del Programa Nacional de Tecnovigilancia INVIMA.
+
 
       .col-lg-5
         figure

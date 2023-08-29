@@ -56,7 +56,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Farmacovigilancial',
+        titulo: 'Farmacovigilancia',
         desarrolloContenidos: true,
       },
       {
@@ -129,21 +129,14 @@ export default {
     },
     {
       tema: 'Farmacovigilancia',
-      referencia:
-        'Urgencias, C. (2018). <i>6. Medicamentos En PRM 08 08 2018.</i> ([Video]). YouTube. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=Pw8QUlDR3s8',
-    },
-    {
-      tema: 'Farmacovigilancia',
-      referencia: 'MINSALUD. ¿Qué es la farmacovigilancia?.',
+      referencia: 'MINSALUD. ¿Qué es la farmacovigilancia?',
       tipo: 'PDF',
       descarga:
         '/downloads/anexos/Anexo2_CF027_farmacovigilancia_profesionales_de_la_salud.pdf',
     },
     {
       tema: 'Farmacovigilancia',
-      referencia: 'MINSALUD. (s.f.). Farmacovigilancia ',
+      referencia: 'MINSALUD. (s.f.). Farmacovigilancia.',
       tipo: 'PDF',
       descarga:
         '/downloads/anexos/Anexo1_CF027_farmacovigilancia_pacientes.pdf',
@@ -188,7 +181,7 @@ export default {
     {
       termino: 'EAM',
       significado:
-        'Eventos adversos relacionados Con medicamentos cualquier suceso médico desfavorable que puede aparecer durante el tratamiento con un producto farmacéutico, incluyendo los productos biológicos, pero que no necesariamente tiene una relación causal con el tratamiento.',
+        'Eventos adversos relacionados con medicamentos cualquier suceso médico desfavorable que puede aparecer durante el tratamiento con un producto farmacéutico, incluyendo los productos biológicos, pero que no necesariamente tiene una relación causal con el tratamiento.',
     },
     {
       termino: 'Iatrogenia (yatrogenia)',
@@ -197,41 +190,37 @@ export default {
     },
     {
       termino: 'ICA',
-      significado: 'Instituto Colombiano Agropecuario.',
+      significado: ' Instituto Colombiano Agropecuario.',
     },
     {
       termino: 'INVIMA',
       significado:
-        'Instituto Nacional de Vigilancia de Medicamentos y Alimentos',
+        ' Instituto Nacional de Vigilancia de Medicamentos y Alimentos',
     },
     {
       termino: 'IPS',
-      significado: 'Institución prestadora de salud.',
+      significado: ' Institución prestadora de salud.',
     },
     {
       termino: 'LASA',
       significado: '<i>Look Alike, Sound Alike.</i>',
     },
     {
-      termino: 'Término',
-      significado: 'definición',
-    },
-    {
-      termino: 'OMS',
+      termino: ' OMS',
       significado: 'Organización Mundial de la Salud.',
     },
     {
       termino: 'PRIM',
-      significado: 'Problemas de Salud Relacionados con Medicamentos.',
+      significado: ' Problemas de Salud Relacionados con Medicamentos.',
     },
     {
       termino: 'PRUM',
-      significado: 'Problema Relacionado con La Utilización del Medicamento.',
+      significado: ' Problema Relacionado con La Utilización del Medicamento.',
     },
     {
       termino: 'RAM',
       significado:
-        'Reacciones Adversas A Medicamentos respuesta a un fármaco o medicamento, que es perjudicial e involuntaria, ocurre a las dosis normalmente usadas en el hombre para profilaxis, diagántico o terapia de alguna enfermedad o para modificar las funciones del organismo.',
+        ' Reacciones Adversas a Medicamentos respuesta a un fármaco o medicamento, que es perjudicial e involuntaria, ocurre a las dosis normalmente usadas en el hombre para profilaxis, diagántico o terapia de alguna enfermedad o para modificar las funciones del organismo.',
     },
     {
       termino: 'Teratogénico',
@@ -242,9 +231,9 @@ export default {
   referencias: [
     {
       referencia:
-        'Resolución 4002 de 2007. [Ministerio dDe lLa Protección Social]. Por la cual se adopta el Manual de Requisitos de Capacidad de Almacenamiento y/o  Acondicionamiento para Dispositivos Médicos. 8 de noviembre de 2007.',
+        'Resolución 4002 de 2007. [Ministerio de la Protección Social]. Por la cual se adopta el Manual de Requisitos de Capacidad de Almacenamiento y/o  Acondicionamiento para Dispositivos Médicos. 8 de noviembre de 2007.',
       link:
-        'https://www.normassalud.com/archivos/285f8e7a01879313d77ac190b169982649e54303f4dcbff74f5d298f8f830aa2',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resoluci%C3%B3n_4002_de_2007.pdf',
     },
     {
       referencia:
@@ -279,6 +268,33 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
+        {
+          nombre: 'Lina Marcela Ayala Pardo',
+          cargo: 'Experta temática',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gustavo Santis Mancipe',
+          cargo: 'Diseñador instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
         {
           nombre: 'Gloria Lida Alzáte Suárez',
           cargo: 'Adecuación instruccional - 2023',
