@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4
-          p.mb-0 El seguimiento al uso de medicamentos, homeopáticos, fitoterapéuticos, productos biológicos, dispositivos médicos (incluidos los sobre medida como ortesis y prótesis), equipos biomédicos, reactivos de diagnóstico in vitro, elementos de rayos X y de uso odontológico; al igual que todos los insumos utilizados en la asistencia domiciliaria, hospitalaria y extramural, también debe estar a cargo de la entidad prestadora de servicio, deben contar con programas de seguimiento, que contengan la consulta constante de las alertas y normas formuladas por el INVIMA.
+          p.mb-0 El seguimiento al uso de medicamentos, homeopáticos, fitoterapéuticos, productos biológicos, dispositivos médicos (incluidos los sobre medida como ortesis y prótesis), equipos biomédicos, reactivos de diagnóstico <i>in vitro</i>, elementos de rayos X y de uso odontológico; al igual que todos los insumos utilizados en la asistencia domiciliaria, hospitalaria y extramural, también debe estar a cargo de la entidad prestadora de servicio, deben contar con programas de seguimiento, que contengan la consulta constante de las alertas y normas formuladas por el INVIMA.
 
       .col-lg-4
         figure

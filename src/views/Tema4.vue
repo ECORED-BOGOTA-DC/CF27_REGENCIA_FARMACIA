@@ -7,33 +7,33 @@
         span 4
       h1 Programa de tecnovigilancia
     
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema4/img1.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img1.png', alt='Imágen decorativa')
       .col-lg-8
         .bloque-texto-f.color-primario.pt-4.px-5.bloque-texto-tema4
           .bloque-texto-f__comillas
           h4.text-regular.bloque-texto-f__texto Es una estrategia de vigilancia post comercialización y evaluación sanitaria, para la identificación, evaluación, gestión y divulgación oportuna de la información de seguridad relacionada con el uso de los dispositivos médicos que se importan, fabrican y distribuyen en el país, afín de tomar medidas eficientes en aras de proteger la salud pública de los colombianos.
           .bloque-texto-f__autor
-            p.mb-0 <b>(Resolución 4816 de 2008, Artículo 1)</b>
+            p.mb-0 <b>Resolución 4816 de 2008, Artículo 1.</b>
           
 
         .cajon.color-secundario.p-4
-          p.mb-0 Para comprender la importancia de la tecnovigilancia, es muy importante revisar el concepto sobre DM (Dispositivos médicos) los cuales incluyen a todos los equipos biomédicos utilizados en la asistencia a los pacientes en el entorno hospitalario, sin importar el nivel de complejidad en el que se encuentren (ver figura 1). 
+          p.mb-0 Para comprender la importancia de la tecnovigilancia, es muy importante revisar el concepto DM (Dispositivos médicos) los cuales incluyen a todos los equipos biomédicos utilizados en la asistencia a los pacientes en el entorno hospitalario, sin importar el nivel de complejidad en el que se encuentren (ver figura 1). 
 
 
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-botones.mb-3
           h5 Figura 1
           span Ciclo de vida de los dispositivos médicos  
 
         figure
-          img(src='@/assets/curso/temas/tema4/img2.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img2.svg', alt='Imagen que contiene un esquema que contiene el ciclo de vida de los dispositivos médicos, el cual consta de:<br>Premercado.<br>Diseño y desarrollo.<br>Fabricación.<br>Registro sanitario.<br>Fabricantes e importadores.<br>INVIMA.<br>Eficacia, seguridad desempeño.<br>Postmercado.<br>Planeación.<br>Selección.<br>Adquisición.Instalación.<br>Uso.<br>Mantenimiento.<br>Disposición final.<br>Prestadores de servicios de salud-usuarios.<br>Efectividad seguridad desempeño.')
           p.text-center.mt-3 Nota. Programa Nacional de Tecnovigilancia INVIMA.
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4
           p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos</b> y <b>dispositivos médicos</b> que se encuentran en el material complementario.
@@ -53,9 +53,9 @@
        
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema4/img3.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img3.png', alt='Imágen decorativa')
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       p.text-center <b>Los principios del programa nacional de tecnovigilancia son (ver figura 2): </b>
 
       .col-lg-10
@@ -64,59 +64,64 @@
           span Principios del programa de tecnovigilancia 
 
         figure
-          img(src='@/assets/curso/temas/tema4/img4.svg', alt='alt')
-          p.text-center.mt-3.mb-3 <b>Los niveles de operación del programa nacional de tecnovigilancia son:</b>
+          img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen con un esquema que contiene los principios del programa de tecnovigilancia, los cuales son:<br>Trazabilidad de los dispositivos médicos.<br>Sensibilidad y representatividad.<br>Formación e información permanente de los actores involucrados.<br>Información veraz, oportuna y confidencial.<br>Articulación entre los actores del programa nacional de tecnovigilancia.')
+          
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        p.text-center.mt-3.mb-5 <b>Los niveles de operación del programa nacional de tecnovigilancia son:</b>
 
         figure
-          img(src='@/assets/curso/temas/tema4/img5.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imagen que contiene un esquema de los niveles de operación del programa nacional de tecnovigilancia, los cuales son:<br>Nacional (Programa nacional de tecnovigilancia farmacovigilancia):<br>• Ministerio de salud y protección social.<br>• INVIMA.<br>Departamental (Programa institucional de tecnovigilancia fármaco vigilancia):<br>• Secretarías departamentales y distritales de salud.<br>Local (Programa institucional de tecnovigilancia fármaco vigilancia):<br>• Fabricantes e importadores de DM.<br>• Prestadores de servicios de salud.<br>Usuarios (Reportar al INVIMA o a la secretaria de salud de su departamento):<br>• Pacientes.<br>• Operadores.<br>• Ciudadanos en general.')
           p.text-center.mt-3.mb-3 Resolución 4816 de 2008. Artículo 6°. Niveles de operación y conformación de estos.
 
-        p.text-center.mt-3.mb-3 <b>De igual forma, existen conceptos complementarios y de gran importancia en la vigilancia, entre ellos:</b>
+    .row.justify-content-center.align-items-center.mb-5
+      p.text-center.mt-3.mb-3 <b>De igual forma, existen conceptos complementarios y de gran importancia en la vigilancia, entre ellos:</b>
 
     .row.mt-5
       .col-lg-7
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
-              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='')
+              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='Imágen decorativa')
           .list__txt
             h4.mb-0.tv.margin-icon <span style='border-bottom: 2px solid #00BCD4'>Reactivovigilancia</span>
 
     .row.justify-content-center.align-items-center
       .col-lg-8
-        p Es el conjunto de actividades que tiene por objeto la identificación y cualificación de efectos indeseados ocasionados por defectos en la calidad de los reactivos de diagnóstico in vitro, así como la identificación de los factores de riesgo o características que puedan estar relacionadas con estos.
+        p Es el conjunto de actividades que tiene por objeto la identificación y cualificación de efectos indeseados ocasionados por defectos en la calidad de los reactivos de diagnóstico <i>in vitro</i>, así como la identificación de los factores de riesgo o características que puedan estar relacionadas con estos.
 
         .cajon.color-secundario.p-4
-          p.mb-0 Se invita al aprendiz a consultar los documentos <b>ABC de dispositivos médicos</b> y <b>dispositivos médicos</b> que se encuentran en el material complementario.
+          p.mb-0 El reporte se constituye en el insumo que le proporciona al INVIMA, a las Secretarías de Salud y Departamentales, al fabricante o a la institución prestadora de salud (IPS), información clara, veraz y confiable sobre el uso y desempeño de los dispositivos médicos que se comercializan en Colombia. Su importancia radica en que, a partir de dicha información, la autoridad sanitaria y demás responsables pueden tomar las medidas sanitarias necesarias para garantizar la salud de los usuarios de estos productos.
        
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema4/img6.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img6.png', alt='Imágen decorativa')
 
     .row.mt-5
       .col-lg-7
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
-              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='')
+              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='Imágen decorativa')
           .list__txt
             h4.mb-0.tv.margin-icon <span style='border-bottom: 2px solid #00BCD4'>Sistema de reportes</span>
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img7.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Los reportes de eventos adversos generados por medicamentos, dispositivos médicos y /o equipos biomédicos, se realizan de acuerdo con el siguiente procedimiento que se aplica a todos los programas de farmacovigilancia, tecnovigilancia, reactivo vigilancia y hemovigilancia. 
+          p.mb-0 Los reportes de eventos adversos generados por medicamentos, dispositivos médicos y /o equipos biomédicos, se realizan de acuerdo con el siguiente procedimiento que se aplica a todos los programas de farmacovigilancia, tecnovigilancia, reactivovigilancia y hemovigilancia. 
 
 
-    .row.mt-5
+    .row.mb-5
       .col-lg-7
         .list.mb-3(data-aos="fade-down")
           .list__item
             .list__item__icon
-              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='')
+              img(src='@/assets/curso/temas/tema4/icon1.svg', alt='Imágen decorativa')
           .list__txt
             h4.mb-0.tv.margin-icon <span style='border-bottom: 2px solid #00BCD4'>Procedimiento</span>
       
@@ -124,7 +129,7 @@
 
       p <b>Este procedimiento es:</b>
 
-    LineaTiempoD.color-acento-contenido.mt-5
+    LineaTiempoD.color-acento-contenido.mb-5
       .row(numero="1" titulo="Notificación")
         .col-md-8.mb-4.mb-md-0
           ul.lista-ul--color.text-small.fa-ul2
@@ -142,7 +147,7 @@
       
         .col-md-4
           figure
-            img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/img8.png', alt='Imagen con un ejemplo de un formato para la detección de eventos adversos, el cual consta de:<br>Módulo 1. Descripción de lo ocurrido.<br>Descripción del suceso adverso.<br>Acciones inseguras identificadas y/o fallas en barreras de seguridad.<br>1.<br>2.<br>3.<br>Factores contributivos.<br>1.<br>2.<br>3.<br>Modulo 2. Origen del reporte.<br>Fecha del reporte:<br>Hora del reporte:<br>Nombre de quien reporta:<br>Servicio que reporta:')
 
 
       .row(numero="2" titulo="Registro y procesamiento")
@@ -170,12 +175,12 @@
           ul.lista-ul--color.text-small.fa-ul2
             li 
               i.fas.fa-atom
-              p.bm-0 <b>Evento adverso prevenible (errores de medicación)</b>, debe ser analizados a través de una herramienta (análisis causal), como, entre otros. Determinar causas del origen al evento adverso; para generar <b style="color: #00BCD4; font-weight: 400">acciones correctas y/o preventivas</b>.
+              p.bm-0 <b>Evento adverso prevenible (errores de medicación)</b>, debe ser analizados a través de una herramienta (análisis causal), como, entre otros. Determinar causas del origen al evento adverso; para generar <b style="color: #00BCD4; font-weight: 400">acciones correctas o preventivas</b>.
 
 
             li 
               i.fas.fa-atom
-              p.mb-0 <b>Eventos adversos no prevenibles (reacciones adversas a medicamentos)</b>, establecer nivel de asociación entre el medicamento y el daño ocasionado, identificando los medicamentos y/o DM (equipos biomédicos), cuyos efectos colaterales o secundarios sean peligrosos para la salud del paciente; y de esta forma la clasificación como <b style="color: #7E5EE3; font-weight: 400">medicamentos de alto riesgo</b>.
+              p.mb-0 <b>Eventos adversos no prevenibles (reacciones adversas a medicamentos)</b>, establecer nivel de asociación entre el medicamento y el daño ocasionado, identificando los medicamentos o DM (equipos biomédicos), cuyos efectos colaterales o secundarios sean peligrosos para la salud del paciente; y de esta forma la clasificación como <b style="color: #7E5EE3; font-weight: 400">medicamentos de alto riesgo</b>.
 
 
             li 
@@ -197,14 +202,14 @@
           p.bm-0 Ejemplo de protocolo de Londres,  metodología para el análisis de eventos adversos.
 
           figure
-            img(src='@/assets/curso/temas/tema4/img12.png', alt='alt')
+            img(src='@/assets/curso/temas/tema4/img12.svg', alt='Imagen con un ejemplo de protocolo de Londres en la metodología para eventos adversos, la cual debe tener:<br>Organización y cultura:<br>Determinaciones generales<br>Procesos organizacionales<br>Fallas latentes<br>Factores contributivos:<br>Paciente<br>Tarea y tecnología<br>Individuo<br>Equipo<br>Ambiente<br>Condiciones que predisponen a realizar acciones inseguras<br>Problemas durante la prestación del servicio:<br>Acciones inseguras (acción u omisión)<br>Violaciones<br>Fallas activas<br>Barreras:<br>Físicas<br>Administrativas<br>Humanas<br>E.A.')
 
       .row(numero="5" titulo="Oportunidad de mejora")
         .col-md-12.mb-4.mb-md-0
           p.bm-0 Elaboración del plan de mejoras.
 
           figure
-            img(src='@/assets/curso/temas/tema4/img13.png', alt='alt')
+            img(src='@/assets/curso/temas/tema4/img13.png', alt='Imágen decorativa')
 
       .row(numero="6" titulo="Notificación")
         .col-md-6.mb-4.mb-md-0
@@ -221,9 +226,9 @@
       
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema4/img14.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/img14.png', alt='Imágen decorativa')
 
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         p.text-center <b>Por otra parte, las entidades prestadoras de servicio deben contar con el siguiente esquema para el reporte de eventos adversos (ver figura 3):</b>
 
@@ -232,17 +237,15 @@
           span Reporte de eventos adversos  
 
         figure
-          img(src='@/assets/curso/temas/tema4/img15.png', alt='alt')
+          img(src='@/assets/curso/temas/tema4/img15.svg', alt='Imagen que contiene un esquema de reporte de eventos adversos, el cual consta de:<br>Reporte IPS<br>Reporte inmediato EA/IA Serio (72hrs)<br>INVIMA<br>Reporte periódico EA/IA No serio (Trimestral) SDS')
           p.text-center Nota. Programa Nacional de Tecnovigilancia INVIMA.
 
-        .cajon.color-acento-contenido.p-4.mt-3
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4
           p.mb-0 El reporte se debe realizar a través del <b>formato reporte de sospecha de eventos adversos a medicamentos (FOREAM)</b>, este formato se puede encontrar en el material complementario, con el nombre FOREAM formato reporte de sospecha.
 
-
-
-
-
-            
+ 
     
 
 
