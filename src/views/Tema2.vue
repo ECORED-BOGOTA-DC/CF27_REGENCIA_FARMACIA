@@ -37,10 +37,10 @@
                 | Pacientes.
               li 
                 i.fas.fa-atom(style='color: #7E5EE3') 
-                | Familiares y/o cuidadores.
+                | Familiares o cuidadores.
 
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 La información incompleta o contradictoria, puede llevar a errores en la medicación con el riesgo claro de un posible evento adverso, que redunda en largas estancias hospitalarias y/o reingresos hospitalarios a corto o mediano plazo. 
+          p.mb-0 La información incompleta o contradictoria, puede llevar a errores en la medicación con el riesgo claro de un posible evento adverso, que redunda en largas estancias hospitalarias o reingresos hospitalarios a corto o mediano plazo. 
 
         p Durante el ciclo de atención del paciente, se genera un alto riesgo de ocurrencia de errores en la medicación, como son:
 
@@ -66,7 +66,7 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img1.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -82,11 +82,11 @@
               .row.justify-content-center
                 .col-lg-10
                   figure
-                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imágen decorativa')
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img3.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img3.svg', alt='Imágen decorativa')
 
         .p-4.p-lg-5(titulo="Adherencia al tratamiento" :icono="require('@/assets/curso/temas/tema2/img4.svg')")
           .row
@@ -96,11 +96,11 @@
               .row.justify-content-center
                 .col-lg-10
                   figure
-                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imágen decorativa')
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img5.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imágen decorativa')
 
         .p-4.p-lg-5(titulo="Automedicación" :icono="require('@/assets/curso/temas/tema2/img6.svg')")
           .row
@@ -110,11 +110,11 @@
               .row.justify-content-center
                 .col-lg-10
                   figure
-                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imágen decorativa')
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img7.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img7.svg', alt='Imágen decorativa')
 
         .p-4.p-lg-5(titulo="Reconciliación medicamentosa" :icono="require('@/assets/curso/temas/tema2/img8.svg')")
           .row
@@ -124,16 +124,16 @@
               .row.justify-content-center
                 .col-lg-10
                   figure
-                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='alt')
+                    img(src='@/assets/curso/temas/tema2/img10.svg', alt='Imágen decorativa')
 
             .col-md-5
               figure
-                img(src='@/assets/curso/temas/tema2/img9.svg', alt='alt')
+                img(src='@/assets/curso/temas/tema2/img9.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema2/img11.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img11.svg', alt='Imágen decorativa')
 
       .col-lg-9
         TabsA.color-secundario
@@ -150,7 +150,7 @@
             p Se refiere específicamente al personal de salud que ha cometido el error al administrar un medicamento sin intención alguna de causar daño, ya que el hecho de ser causa de morbimortalidad en la población asistida, genera aumento de los costos asistenciales por demandas, la posible pérdida laboral o pérdida del prestigio personal, lo que genera inseguridad y daño psicológico a quienes cometieron el error. En Colombia se han documentado casos de suicidios por estrés y depresión crónica post evento.
 
           .tarjeta.tarjeta-morada.p-5(titulo="Medicamentos LASA")
-            p Se consideran de alto riego en el servicio farmacéutico, ya que son medicamentos que son parecidos en presentación (<i>Look Alike</i>), suenan o son parecidos en pronunciación (<i>Sound Alike</i>), lo que puede llegar a confundir a la hora de solicitarlos, dispensarlos y administrarlos.
+            p Se consideran de alto riego en el servicio farmacéutico, ya que son medicamentos que son parecidos en presentación (Look Alike), suenan o son parecidos en pronunciación (Sound Alike), lo que puede llegar a confundir a la hora de solicitarlos, dispensarlos y administrarlos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -162,14 +162,14 @@
             p Errores resultantes de las acciones u omisiones de las personas. Evento que ocurre inmediatamente antes de un incidente o accidente.
 
           .tarjeta.tarjeta-morada.p-5(titulo="Error inconsciente")
-            p Acción donde la persona no se da cuenta de la equivocación y no incluye la voluntad. Error: acciones equivocadas al realizar lo que no se debía hacer u omisiones al no hacer lo que se debía hacer, ya sea consciente o inconsciente. Para ver un ejemplo de un error inconsciente se recomienda al aprendiz ver el vídeo Dr. House que atiende a mujer con asma ubicado en el material complementario.
+            p Acción donde la persona no se da cuenta de la equivocación y no incluye la voluntad. Error: acciones equivocadas al realizar lo que no se debía hacer u omisiones al no hacer lo que se debía hacer, ya sea consciente o inconsciente. Para ver un ejemplo de un error inconsciente se recomienda al aprendiz ver el vídeo Dr. House que atiende a mujer con asma, ubicado en el material complementario.
 
           .tarjeta.tarjeta-morada.p-5(titulo="Falla latente")
             p Falta no reconocida dentro de un sistema, la cual se convierte en evidente bajo circunstancias específicas. Depende de la estructura y los procesos.
 
       .col-lg-3
         figure
-          img(src='@/assets/curso/temas/tema2/img12.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imágen decorativa')
 
 
     .bg-fondo1
@@ -178,58 +178,58 @@
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img13.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img13.svg' alt='Imágen decorativa')
             h4.text-center Factor contributivo
             p.text-center Circunstancia, acción o influencia que se considera que ha desempeñado un papel en el origen o la evolución de un incidente o que ha aumentado el riesgo de incidente.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img14.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img14.svg' alt='Imágen decorativa')
             h4.text-center Factor de riesgo
             p.text-center Situación, característica o atributo que condiciona una mayor probabilidad de experimentar un daño a la salud de una o varias personas.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img15.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img15.svg' alt='Imágen decorativa')
             h4.text-center Atención insegura
-            p.text-center Atención en salud en la cual se presenta un acontecimiento miento o una circunstancia que incrementa el riesgo de ocurrencia de un incidente o evento adverso.
+            p.text-center Atención en salud en la cual se presenta un acontecimiento o una circunstancia que incrementa el riesgo de ocurrencia de un incidente o evento adverso.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/temas/tema2/img16.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img16.svg' alt='Imágen decorativa')
             h4.text-center Barrera de seguridad
             p.text-center Acción o circunstancia que reduce la probabilidad de presentación de un incidente o evento adverso.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img17.svg' alt='Imágen decorativa')
             h4.text-center Complicación
             p.text-center Es el daño o resultado clínico no esperado no atribuible a la atención en salud sino a la enfermedad o a las condiciones propias del paciente.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img18.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img18.svg' alt='Imágen decorativa')
             h4.text-center Incidente
             p.text-center Es una falla durante la prestación del servicio de salud que no alcanza a causar daño al paciente.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img19.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img19.svg' alt='Imágen decorativa')
             h4.text-center Evento adverso
             p.text-center Es la lesión o daño no intencional que se le produce a un paciente como resultado clínico no esperado durante el cuidado asistencial.
 
           .tarjeta.tarjeta-gris.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema2/img20.svg' alt='AvatarTop')
+                img(src='@/assets/curso/temas/tema2/img20.svg' alt='Imágen decorativa')
             h4.text-center Evento centinela
-            p.text-center Es un tipo de evento donde está presente una muerte o daño físico o psicológico SEVERO de carácter permanente, que no estaba presente anteriormente y que requiere tratamiento o un cambio permanente.
+            p.text-center Es un tipo de evento donde está presente una muerte o daño físico o psicológico severo de carácter permanente, que no estaba presente anteriormente y que requiere tratamiento o un cambio permanente.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -237,7 +237,7 @@
 
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema2/img21.svg', alt='alt')
+          img(src='@/assets/curso/temas/tema2/img21.svg', alt='Imágen decorativa')
 
       .col-lg-8
         ul.lista-ul--color

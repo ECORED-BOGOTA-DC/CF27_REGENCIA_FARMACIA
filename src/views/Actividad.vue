@@ -7,9 +7,9 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/arrastrar_Soltar.svg", alt="Imágen decorativa")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-contenido
           h2 Farmacovigilancia
         p.mb-4 Identificar y conocer de manera sistemática los efectos adversos de los medicamentos, con el objetivo de garantizar su seguridad y minimizar los riesgos asociados a su uso.
         .tarjeta.actividad.p-3

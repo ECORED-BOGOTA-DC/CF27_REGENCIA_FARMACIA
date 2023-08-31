@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Farmacovigilancia y Tecnovigilancia',
+    componenteFormativo: 'Farmacovigilancia y tecnovigilancia',
     descripcionCurso:
       'En el entorno comunitario y hospitalario, la automedicación, la no adherencia al tratamiento y el error en la prescripción y administración de medicamentos, han generado factores que afectan y aumentan los riesgos en la salud de las personas. Las entidades prestadoras de servicios de salud deben asumir la responsabilidad para mejorar esta problemática, capacitando al personal de salud.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
@@ -203,11 +203,11 @@ export default {
     },
     {
       termino: 'LASA',
-      significado: '<i>Look Alike, Sound Alike.</i>',
+      significado: ' Look Alike, Sound Alike.',
     },
     {
-      termino: ' OMS',
-      significado: 'Organización Mundial de la Salud.',
+      termino: 'OMS',
+      significado: ' Organización Mundial de la Salud.',
     },
     {
       termino: 'PRIM',
@@ -231,7 +231,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Resolución 4002 de 2007. [Ministerio de la Protección Social]. Por la cual se adopta el Manual de Requisitos de Capacidad de Almacenamiento y/o  Acondicionamiento para Dispositivos Médicos. 8 de noviembre de 2007.',
+        'Resolución 4002 de 2007. [Ministerio de la Protección Social]. Por la cual se adopta el Manual de Requisitos de Capacidad de Almacenamiento o Acondicionamiento para Dispositivos Médicos. 8 de noviembre de 2007.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resoluci%C3%B3n_4002_de_2007.pdf',
     },
@@ -314,13 +314,13 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amézquita',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollador Fullstack-2023',
+          cargo: 'Desarrollador Fullstack',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
