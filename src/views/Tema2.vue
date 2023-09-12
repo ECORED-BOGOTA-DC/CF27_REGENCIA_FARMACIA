@@ -9,57 +9,57 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p Durante la hospitalización de un paciente, la administración de medicamentos es un proceso determinante y complejo, porque exige una comunicación e información recíproca, entre los diferentes actores del proceso, como son:
+        p(data-aos="fade-left") Durante la hospitalización de un paciente, la administración de medicamentos es un proceso determinante y complejo, porque exige una comunicación e información recíproca, entre los diferentes actores del proceso, como son:
 
         .row.justify-content-center.mb-4
           .col-lg-4
             ul.lista-ul--color
-              li
+              li(data-aos="fade-up")
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Proveedores
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Químicos farmacéuticos.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Regentes.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Médicos.
 
           .col-lg-7
             ul.lista-ul--color
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Enfermeras jefes y auxiliares.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Pacientes.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Familiares o cuidadores.
 
-        .cajon.color-secundario.p-4.mb-4
+        .cajon.color-secundario.p-4.mb-4(data-aos="flip-down")
           p.mb-0 La información incompleta o contradictoria, puede llevar a errores en la medicación con el riesgo claro de un posible evento adverso, que redunda en largas estancias hospitalarias o reingresos hospitalarios a corto o mediano plazo. 
 
-        p Durante el ciclo de atención del paciente, se genera un alto riesgo de ocurrencia de errores en la medicación, como son:
+        p(data-aos="fade-right") Durante el ciclo de atención del paciente, se genera un alto riesgo de ocurrencia de errores en la medicación, como son:
 
         .row.justify-content-center.mb-4
           .col-lg-4
             ul.lista-ul--color
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | El ingreso.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Traslado entre servicios.
 
           .col-lg-7
             ul.lista-ul--color
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Referencia y contrarreferencia incompleta.
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | Egreso del paciente de la estancia hospitalaria.
 
@@ -70,7 +70,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Por lo anterior, es de imperiosa necesidad tener claridad sobre los conceptos que a nivel asistencial se utilizan como parte de la responsabilidad que implica la administración de los medicamentos, los cuales son:
+      p(data-aos="fade-right") Por lo anterior, es de imperiosa necesidad tener claridad sobre los conceptos que a nivel asistencial se utilizan como parte de la responsabilidad que implica la administración de los medicamentos, los cuales son:
 
     .row.justify-content-center.align-items-center.mb-5
       TabsB.color-primario(style='background-color: #E6F7FE')
@@ -162,7 +162,7 @@
             p Errores resultantes de las acciones u omisiones de las personas. Evento que ocurre inmediatamente antes de un incidente o accidente.
 
           .tarjeta.tarjeta-morada.p-5(titulo="Error inconsciente")
-            p Acción donde la persona no se da cuenta de la equivocación y no incluye la voluntad. Error: acciones equivocadas al realizar lo que no se debía hacer u omisiones al no hacer lo que se debía hacer, ya sea consciente o inconsciente. Para ver un ejemplo de un error inconsciente se recomienda al aprendiz ver el vídeo Dr. House que atiende a mujer con asma, ubicado en el material complementario.
+            p Acción donde la persona no se da cuenta de la equivocación y no incluye la voluntad. Error: acciones equivocadas al realizar lo que no se debía hacer u omisiones al no hacer lo que se debía hacer, ya sea consciente o inconsciente. Para ver un ejemplo de un error inconsciente se recomienda al aprendiz ver el video de Dr. House, en el cual atiende a una mujer con asma, ubicado en el material complementario.
 
           .tarjeta.tarjeta-morada.p-5(titulo="Falla latente")
             p Falta no reconocida dentro de un sistema, la cual se convierte en evidente bajo circunstancias específicas. Depende de la estructura y los procesos.
@@ -233,7 +233,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      b.text-center.mb-4 Ahora, en relación a los resultados de una atención en salud que de manera no intencional que produjo daño, los eventos adversos pueden ser:
+      b.text-center.mb-4(data-aos="fade-up") Ahora, en relación a los resultados de una atención en salud que de manera no intencional que produjo daño, los eventos adversos pueden ser:
 
       .col-lg-4
         figure
@@ -241,31 +241,31 @@
 
       .col-lg-8
         ul.lista-ul--color
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Prevenible.</b> Resultado no deseado, no intencional que se habría evitado mediante el cumplimiento de los estándares de cuidado asistencial disponibles en un momento determinado.
     
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Serio.</b> Constituye un daño no intencionado que pudo haber llevado a la muerte o al deterioro serio de la salud del paciente, con hospitalización, discapacidad o incapacidad parcial o permanente, o evento clínico importante.
    
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>No prevenible.</b> Resultado no deseado, no intencional que se presenta a pesar del cumplimiento de los estándares del cuidado asistencial.
 
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Grave.</b> Lesiones que conllevan a muerte, incapacidad residual o intervención quirúrgica.
    
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Leve.</b> Es un daño menor que no ocasiona una atención especial, incapacidad o prolongación en hospitalización.
 
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Moderado.</b> Lesiones que ocasionan una atención en urgencias, un día de hospitalización y atención con especialista.
     
-          li.l-p
+          li.l-p(data-aos="fade-up")
             i.fas.fa-atom(style='color: #FF9D00') 
             | <b>Evento centinela.</b> Es un tipo de evento adverso en donde está presente una muerte o un daño físico o psicológico severo de carácter permanente, que no estaba presente anteriormente y que requiere tratamiento un cambio permanente.
 

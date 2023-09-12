@@ -269,7 +269,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Lina Marcela Ayala Pardo',
+          nombre: 'Emilia Sarmiento Mora',
           cargo: 'Experta temática',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -291,7 +291,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
         },
         {
-          nombre: 'Julia Isabel Roberto',
+          nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de estilo',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
@@ -314,13 +314,13 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amézquita',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollo Fullstack - 2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -351,7 +351,7 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión De Mercados, Logísti Información - Regional Distrito Capital',
+            'Centro de Gestión De Mercados, Logística Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',

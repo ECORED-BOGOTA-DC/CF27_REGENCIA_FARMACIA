@@ -8,13 +8,13 @@
       h1 Marco normativo colombiano
 
     .row.justify-content-center.align-items-center.mb-5
-      figure
-        img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imágen decorativa')
+      figure(data-aos="flip-down")
+        img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imagen con el logo del Invima')
 
-      p.mt-4 Todas las disposiciones normativas que hacen referencia al uso racional de medicamentos y dispositivos médicos son generadas por el Ministerio de Salud y Protección Social y el ente de control es el INVIMA, organismo regulador, encargado de las actividades de inspección, vigilancia y control al respecto; de esta forma se verifica que los posibles riesgos relacionados con el uso de productos farmacéuticos, disminuyan, protegiendo así la salud del individuo y la comunidad.
+      p.mt-4(data-aos="fade-right") Todas las disposiciones normativas que hacen referencia al uso racional de medicamentos y dispositivos médicos son generadas por el Ministerio de Salud y Protección Social y el ente de control es el INVIMA, organismo regulador, encargado de las actividades de inspección, vigilancia y control al respecto; de esta forma se verifica que los posibles riesgos relacionados con el uso de productos farmacéuticos, disminuyan, protegiendo así la salud del individuo y la comunidad.
 
     .row.justify-content-center.align-items-center.mb-5
-      h5.text-center.mb-4 Es importante tener en cuenta que:
+      h5.text-center.mb-4(data-aos="fade-up") Es importante tener en cuenta que:
 
       .col-lg-10
       .tarjeta.bg-Slyder1.p-5
@@ -45,7 +45,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      b.text-center.mb-5 Las leyes que regulan estas políticas dentro del marco colombiano son:
+      b.text-center.mb-5(data-aos="fade-up") Las leyes que regulan estas políticas dentro del marco colombiano son:
 
       .col-lg-3
         figure

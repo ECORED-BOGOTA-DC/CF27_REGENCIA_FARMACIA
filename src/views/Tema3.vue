@@ -13,21 +13,21 @@
           img(src='@/assets/curso/temas/tema3/img1.svg', alt='Imágen decorativa')
 
       .col-lg-8
-        p La Organización Mundial de la Salud (OMS, 2002), define la farmacovigilancia como un método que alterna la recolección, seguimiento, investigación, análisis y evaluación de la información obtenida por parte de los trabajadores de la salud y de los pacientes, en todo lo relacionado con los efectos adversos a los medicamentos con el objetivo de prevenir los riesgos durante el tratamiento de los pacientes. 
+        p(data-aos="fade-left") La Organización Mundial de la Salud (OMS, 2002), define la farmacovigilancia como un método que alterna la recolección, seguimiento, investigación, análisis y evaluación de la información obtenida por parte de los trabajadores de la salud y de los pacientes, en todo lo relacionado con los efectos adversos a los medicamentos con el objetivo de prevenir los riesgos durante el tratamiento de los pacientes. 
 
-        p Existen diferentes métodos para el desarrollo de los procesos de farmacovigilancia:
+        p(data-aos="fade-right") Existen diferentes métodos para el desarrollo de los procesos de farmacovigilancia:
 
         .row.justify-content-center.mb-4
           .col-lg-10
             ul.lista-ul--color
-              li
+              li(data-aos="fade-up")
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | <b style="color: #7E5EE3">I. Farmacovigilancia pasiva:</b> es la que se realiza cuando quien reporta obtiene la información de manera abierta o directa.
-              li
+              li(data-aos="fade-up")
                 i.fas.fa-atom(style='color: #7E5EE3') 
                 | <b style="color: #7E5EE3">II. Farmacovigilancia activa:</b> es cuando la entidad reporta, programa y realiza una acción que se encamina a obtener la información.
 
-        .cajon.color-secundario.p-4
+        .cajon.color-secundario.p-4(data-aos="flip-down")
           p.mb-0 El evento adverso no solo se presenta en los pacientes, también en el personal de salud, medio ambiente, inducido durante la utilización de medicamentos o dispositivos médicos. 
 
 
@@ -61,7 +61,7 @@
               p.mb-0 Hace referencia a problemas relacionados con la prescripción, dispensación y administración de medicamentos.
 
       .row.justify-content-center.align-items-center.mb-5
-        p.text-center Para complementar la información, se invita a ver el video #[b Medicamentos en PRM], ubicado en el material complementario. 
+        p.text-center(data-aos="fade-up") Para complementar la información, se invita a ver el video #[b Medicamentos en PRM], ubicado en el material complementario. 
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -76,36 +76,36 @@
               .row.justify-content-center.mb-4
                 .col-lg-4
                   ul.lista-ul--color  
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Pacientes.
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Familiares.
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Cuidadores.
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Médico tratante.
 
                 .col-lg-7
                   ul.lista-ul--color
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Clínicas.
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Hospitales.
-                    li 
+                    li(data-aos="fade-up") 
                       i.fas.fa-atom(style='color: #7E5EE3') 
                       | Entes territoriales de salud (servicio farmacéutico, farmacias/droguerías).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p.mb-3 Las entidades prestadoras de servicios de salud deben articular en forma integral los programas de seguridad del paciente con los de farmacovigilancia, tecnovigilancia, reactivovigilancia y hemovigilancia, con el propósito determinante de relacionar la identificación, registro, análisis y gestión de los incidentes y eventos adversos que se pueden presentar durante la atención en salud, de tal manera que se aprenda del error y se aproveche la oportunidad de mejora.
+        p.mb-3(data-aos="fade-right") Las entidades prestadoras de servicios de salud deben articular en forma integral los programas de seguridad del paciente con los de farmacovigilancia, tecnovigilancia, reactivovigilancia y hemovigilancia, con el propósito determinante de relacionar la identificación, registro, análisis y gestión de los incidentes y eventos adversos que se pueden presentar durante la atención en salud, de tal manera que se aprenda del error y se aproveche la oportunidad de mejora.
 
-        .cajon.color-acento-contenido.p-4.mb-3
+        .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-down")
           p.mb-0 Para profundizar el tema de farmacovigilancia, se invita al aprendiz a consultar los documentos <b>Farmacovigilancia pacientes y Farmacovigilancia profesionales de la salud</b>, ubicados en el material complementario.
 
 
