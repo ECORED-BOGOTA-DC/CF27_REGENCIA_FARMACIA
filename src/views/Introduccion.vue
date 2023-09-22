@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
@@ -12,20 +12,17 @@
     .row.justify-content-center.align-items-center.mb-5
       figure(data-aos="flip-up")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/DPnwAWYz8p8?si=viury4_h4T16jm6x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        .cajon.color-acento-contenido.p-4(data-aos="flip-down")
+        .cajon.color-acento-contenido.p-4(data-aos="flip-right")
           p.mb-0 El seguimiento al uso de medicamentos, homeopáticos, fitoterapéuticos, productos biológicos, dispositivos médicos (incluidos los sobre medida como ortesis y prótesis), equipos biomédicos, reactivos de diagnóstico <i>in vitro</i>, elementos de rayos X y de uso odontológico; al igual que todos los insumos utilizados en la asistencia domiciliaria, hospitalaria y extramural, también debe estar a cargo de la entidad prestadora de servicio, deben contar con programas de seguimiento, que contengan la consulta constante de las alertas y normas formuladas por el INVIMA.
-
-      .col-lg-4
+      .col-lg-4(data-aos="flip-left")
         figure(data-aos="fade-left")
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='alt')
 
-    .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Es importante resaltar, que incluso las características genéticas y la enfermedad del paciente, la no oportunidad de recursos, las condiciones culturales y sociales, inclusive, factores ajenos al paciente, como el proceso de producción, almacenamiento, exportación y distribución de los medicamentos, la falsificación o la baja calidad de los mismos, hacen parte de una gran cadena de eslabones que pueden generar incidentes y eventos adversos en la salud del individuo, lo cual da como resultado una atención riesgosa y con futuras complicaciones, que en algunos casos puede conllevar a la muerte.
-
+    p(data-aos="fade-right") Es importante resaltar, que incluso las características genéticas y la enfermedad del paciente, la no oportunidad de recursos, las condiciones culturales y sociales, inclusive, factores ajenos al paciente, como el proceso de producción, almacenamiento, exportación y distribución de los medicamentos, la falsificación o la baja calidad de los mismos, hacen parte de una gran cadena de eslabones que pueden generar incidentes y eventos adversos en la salud del individuo, lo cual da como resultado una atención riesgosa y con futuras complicaciones, que en algunos casos puede conllevar a la muerte.
 
 </template>
 
