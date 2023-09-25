@@ -66,41 +66,41 @@
             figure
               img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imagen que contiene un esquema de los niveles de operación del programa nacional de tecnovigilancia, los cuales son:<br>Nacional (Programa nacional de tecnovigilancia farmacovigilancia):<br>• Ministerio de salud y protección social.<br>• INVIMA.<br>Departamental (Programa institucional de tecnovigilancia fármaco vigilancia):<br>• Secretarías departamentales y distritales de salud.<br>Local (Programa institucional de tecnovigilancia fármaco vigilancia):<br>• Fabricantes e importadores de DM.<br>• Prestadores de servicios de salud.<br>Usuarios (Reportar al INVIMA o a la secretaria de salud de su departamento):<br>• Pacientes.<br>• Operadores.<br>• Ciudadanos en general.')
               figcaption Resolución 4816 de 2008. Artículo 6°. Niveles de operación y conformación de estos.
-          .tarjeta.color-secundario.p-3(x="23.5%" y="15%" numero="+")
-            .h4.text-white Nacional
+          .BGR01.p-3(x="23.5%" y="15%" numero="+")
+            .h4 Nacional
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Ministerio de salud y protección social.
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | INVIMA.
-          .tarjeta.color-secundario.p-3(x="23.5%" y="35%" numero="+")
-            .h4.text-white Departamental
+          .BGR01.p-3(x="23.5%" y="35%" numero="+")
+            .h4 Departamental
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Secretarias departamentales y distritales de salud.
-          .tarjeta.color-secundario.p-3(x="23.5%" y="55%" numero="+")
-            .h4.text-white Local
+          .BGR01.p-3(x="23.5%" y="55%" numero="+")
+            .h4 Local
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Fabricantes e importadores de DM.
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Prestadores de servicios de salud.
-          .tarjeta.color-secundario.p-3(x="23.5%" y="81%" numero="+")
-            .h4.text-white Usuarios
+          .BGR01.p-3(x="23.5%" y="81%" numero="+")
+            .h4 Usuarios
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Pacientes. 
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Operadores. 
               li(style="margin-bottom: 2px")
-                i.fas.fa-check-circle(style="color: #FFF;")
+                i.fas.fa-check-circle(style="color: #00BCD4;")
                 | Ciudadanos en general.
 
     .h5.text-center.mb-5(data-aos="fade-up") De igual forma, existen conceptos complementarios y de gran importancia en la vigilancia, entre ellos:
