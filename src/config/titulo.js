@@ -1,1 +1,1 @@
-module.exports = 'Farmacovigilancia y Tecnovigilancia'
+module.exports = 'Farmacovigilancia y tecnovigilancia'
