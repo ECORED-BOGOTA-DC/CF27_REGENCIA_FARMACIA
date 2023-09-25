@@ -28,7 +28,7 @@
 
     .bg-fondo2.mb-5
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-sm-8.mb-lg-0.mb-4
+        .col-xxl.col-lg-6.col-sm-8.mb-xxl-0.mb-4
           .crd_hover_txt(data-aos="flip-right")
             .crd_hover_txt--img
               figure
@@ -37,7 +37,7 @@
               h4.text-center.mb-5 Reacciones adversas a medicamentos
               p.mb-0 Efecto perjudicial que ocurre tras la administración de un fármaco en las dosis normales utilizadas en la especie humana, para la profilaxis, el diagnóstico o el tratamiento o el tratamiento de una enfermedad o para la modificación de alguna función fisiológica.
 
-        .col-lg-4.col-sm-8.mb-lg-0.mb-4
+        .col-xxl.col-lg-6.col-sm-8.mb-xxl-0.mb-4
           .crd_hover_txt(data-aos="flip-up")
             .crd_hover_txt--img
               figure
@@ -46,7 +46,7 @@
               h4.text-center.mb-3.mb-lg-5 Problemas de salud relacionados con medicamentos
               p.mb-0 Resultados clínicos negativos, derivados de la farmacoterapia que, producidos por diversas causas, conducen a la no consecución del objetivo terapéutico o a la aparición de efectos no deseados.
 
-        .col-lg-4.col-sm-8.mb-lg-0.mb-4
+        .col-xxl.col-lg-6.col-sm-8.mb-xxl-0.mb-4
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure

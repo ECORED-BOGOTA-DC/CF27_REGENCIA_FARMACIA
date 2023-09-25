@@ -314,7 +314,7 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amézquita',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseño web',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
