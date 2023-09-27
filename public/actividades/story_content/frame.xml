@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad Didactica" />
+              <option name="title_text" value="Actividad did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1556,9 +1556,9 @@
       <string id="video_transcript_resume_autoscroll">Reanudar desplazamiento automático</string>
       <string id="video_transcript_select_track">Seleccionar pista</string>
       <string id="video_transcript_title">Transcripciones</string>
-      <string id="acc_playback_speed">~þlaý~bacķ~ špe~ed</string>
-      <string id="playback_speed_title">~Plaý~bacķ~ Sþe~ed</string>
-      <string id="playback_speed_normal">~Nøřӎ~al</string>
+      <string id="acc_playback_speed">velocidad de reproducción</string>
+      <string id="playback_speed_title">Velocidad de reproducción</string>
+      <string id="playback_speed_normal">Normal</string>
       <string id="streaming_video_local_playback_learn_more">Saber más</string>
       <string id="streaming_video_local_playback_republish">Para ver este video, utiliza la funcionalidad de previsualización en Storyline 360, sube tu curso publicado a un servidor, publica el curso en Review 360 o cambia a calidad de video estática.</string>
       <string id="streaming_video_local_playback_title">El video en streaming no está disponible para reproducción local.</string>
@@ -1581,14 +1581,9 @@
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6rEEA5uSa84" displaytext="Escena sin título" expand="true" type="slide">
+        <slidelink slideid="_player.6lbEHueSUTy" displaytext="Escena sin título" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6rEEA5uSa84.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5shF3ZRX7tX" displaytext="Escena sin título" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5shF3ZRX7tX.6P8fxjcSMtH" displaytext="Arrastrar y soltar" expand="false" type="slide" />
+            <slidelink slideid="_player.6lbEHueSUTy.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
