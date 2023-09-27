@@ -115,7 +115,7 @@ export default {
     {
       tema: 'Marco normativo colombiano',
       referencia:
-        'Circular 48 de 2020. [Ministerio de salud y protección social].  Instrucciones para la vigilancia post comercialización de medicamentos, dispositivos médicos y reactivos in vitro de uso y consumo humano con registro sanitario, permiso de comercialización y declarados como vitales no disponibles. 7 de diciembre de 2020.',
+        'Circular 48 de 2020. [Ministerio de salud y protección social]. Instrucciones para la vigilancia post comercialización de medicamentos, dispositivos médicos y reactivos in vitro de uso y consumo humano con registro sanitario, permiso de comercialización y declarados como vitales no disponibles. 7 de diciembre de 2020.',
       tipo: 'PDF',
       descarga:
         '/downloads/anexos/Anexo8_CF027_circular_minsaludps_0048_2020.pdf',
@@ -123,7 +123,7 @@ export default {
     {
       tema: 'Conceptos generales',
       referencia:
-        'Escobar, K. (2012). Dr. house atiende a mujer con asma.  ([Video]). YouTube.',
+        'Escobar, K. (2012). Dr. house atiende a mujer con asma. ([Video]). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1UyH-Yq-26o',
     },
