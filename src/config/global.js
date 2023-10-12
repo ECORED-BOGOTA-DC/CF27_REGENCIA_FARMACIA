@@ -115,7 +115,7 @@ export default {
     {
       tema: 'Marco normativo colombiano',
       referencia:
-        'Circular 48 de 2020. [Ministerio de salud y protección social]. Instrucciones para la vigilancia post comercialización de medicamentos, dispositivos médicos y reactivos in vitro de uso y consumo humano con registro sanitario, permiso de comercialización y declarados como vitales no disponibles. 7 de diciembre de 2020.',
+        'Circular 48 de 2020. Ministerio de salud y protección social. <i>Instrucciones para la vigilancia post comercialización de medicamentos, dispositivos médicos y reactivos in vitro de uso y consumo humano con registro sanitario, permiso de comercialización y declarados como vitales no disponibles</i>. 7 de diciembre de 2020.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/circular-48-de-2020.pdf',
@@ -123,58 +123,59 @@ export default {
     {
       tema: 'Conceptos generales',
       referencia:
-        'Escobar, K. (2012). Dr. house atiende a mujer con asma. ([Video]). YouTube.',
+        'Escobar, K. (2012). <i>Dr. house atiende a mujer con asma</i>. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=1UyH-Yq-26o',
     },
     {
       tema: 'Farmacovigilancia',
-      referencia: 'MINSALUD. ¿Qué es la farmacovigilancia?',
+      referencia: 'MINSALUD. <i>¿Qué es la farmacovigilancia?</i>',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo2_CF027_farmacovigilancia_profesionales_de_la_salud.pdf',
+      link:
+        'http://medicamentosaunclic.gov.co/contenidos/farmacovigilancia_profesionales%20de%20la%20salud_v7_WEB.pdf',
     },
     {
       tema: 'Farmacovigilancia',
-      referencia: 'MINSALUD. (s.f.). Farmacovigilancia.',
+      referencia: 'MINSALUD. (s.f.). <i>Farmacovigilancia.</i>',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo1_CF027_farmacovigilancia_pacientes.pdf',
+      link:
+        'http://medicamentosaunclic.gov.co/contenidos/farmacovigilancia_pacientes_v8_WEB.pdf',
     },
     {
       tema: 'Farmacovigilancia',
       referencia: 'INVIMA. (2013). <i>ABC de dispositivos médicos.</i>',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo3_CF027_ABC_de_los_dispositivos_médicos.pdf',
+      link:
+        'https://www.invima.gov.co/documents/20143/442916/abc_dispositivos-medicos.pdf/d32f6922-0c50-bcaa-6b53-066edfb98274',
     },
     {
       tema: 'Farmacovigilancia',
-      referencia: 'MINTRABAJO. (s.f.). Dispositivos médicos.',
+      referencia: 'MINTRABAJO. (s.f.). <i>Dispositivos médicos.</i>',
       tipo: 'PDF',
-      descarga: '/downloads/anexos/Anexo4_CF027_Dispositivos_médicos.pdf',
-    },
-    {
-      tema: 'Farmacovigilancia',
-      referencia:
-        'Resolución 10204 de 2017.  [Instituto Colombiano Agropecuario]. Por medio de la cual se establece el Sistema Nacional de Farmacovigilancia para medicamentos y biológicos de uso veterinario. 24 de agosto de 2017.',
-      tipo: 'PDF',
-      descarga: '/downloads/anexos/Anexo6_CF027_Resolucion_ica_10204_2017.pdf',
+      descarga: '/downloads/anexos/Dispositivos_medicos.pdf',
     },
     {
       tema: 'Farmacovigilancia',
       referencia:
-        'Resolución 1403 de 2007. [Ministerio de la Protección Social]. Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones. Mayo 14 del 2007.',
+        'Resolución 10204 de 2017. Instituto Colombiano Agropecuario. <i>Por medio de la cual se establece el Sistema Nacional de Farmacovigilancia para medicamentos y biológicos de uso veterinario</i>. 24 de agosto de 2017.',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo7_CF027_resolucion_minproteccion_1403_2007.pdf',
+      link:
+        'https://www.ica.gov.co/areas/pecuaria/servicios/regulacion-y-control-de-medicamentos-veterinarios/farmacovigilancia-1/res-10204-de-2017.aspx',
+    },
+    {
+      tema: 'Farmacovigilancia',
+      referencia:
+        'Resolución 1403 de 2007. Ministerio de la Protección Social. <i>Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones</i>. Mayo 14 del 2007.',
+      tipo: 'PDF',
+      link:
+        'http://autorregulacion.saludcapital.gov.co/leyes/Resolucion_1403_de_2007.pdf',
     },
     {
       tema: 'Programa de tecnovigilancia',
-      referencia: 'INVIMA. (2016). FOREAM. formato reporte de sospecha.',
+      referencia: 'INVIMA. (2016). FOREAM. <i>Formato reporte de sospecha.</i>',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo5_CF027_FOREAM_formato_reporte_de_sospecha.doc',
+      link:
+        'https://www.invima.gov.co/documents/20143/453029/IVC-VIG-FM052.doc/6f9ef7e9-7fe2-f8c4-3236-f44eb212c0b9',
     },
   ],
   glosario: [
