@@ -31,7 +31,7 @@
                 img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imágen decorativa')
           .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
-              p Es importante resaltar que, aunque la prioridad es velar por la salud humana; no es menos importante en cuanto a salud pública se refiere, la salud del ambiente y de los animales, razón por la cual el ICA es el ente de inspección vigilancia y control; cuyo fin es prevenir y disminuir los riesgos originados del uso de medicamentos veterinarios, posterior a su venta.
+              p Es importante resaltar que, aunque la prioridad es velar por la salud humana; no es menos importante en cuanto a salud pública se refiere, la salud del ambiente y de los animales, razón por la cual el ICA es el ente de inspección, vigilancia y control; cuyo fin es prevenir y disminuir los riesgos originados del uso de medicamentos veterinarios, posterior a su venta.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imágen decorativa')

@@ -117,8 +117,8 @@ export default {
       referencia:
         'Circular 48 de 2020. [Ministerio de salud y protección social]. Instrucciones para la vigilancia post comercialización de medicamentos, dispositivos médicos y reactivos in vitro de uso y consumo humano con registro sanitario, permiso de comercialización y declarados como vitales no disponibles. 7 de diciembre de 2020.',
       tipo: 'PDF',
-      descarga:
-        '/downloads/anexos/Anexo8_CF027_circular_minsaludps_0048_2020.pdf',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/circular-48-de-2020.pdf',
     },
     {
       tema: 'Conceptos generales',
@@ -220,7 +220,7 @@ export default {
     {
       termino: 'RAM',
       significado:
-        ' Reacciones Adversas a Medicamentos respuesta a un fármaco o medicamento, que es perjudicial e involuntaria, ocurre a las dosis normalmente usadas en el hombre para profilaxis, diagántico o terapia de alguna enfermedad o para modificar las funciones del organismo.',
+        ' Reacciones Adversas a Medicamentos respuesta a un fármaco o medicamento, que es perjudicial e involuntaria, ocurre a las dosis normalmente usadas en el hombre para profilaxis o terapia de alguna enfermedad o para modificar las funciones del organismo.',
     },
     {
       termino: 'Teratogénico',
@@ -261,7 +261,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -271,41 +271,41 @@ export default {
         {
           nombre: 'Emilia Sarmiento Mora',
           cargo: 'Experta temática',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Antioquia - Centro de Servicios de Salud',
         },
         {
           nombre: 'Gustavo Santis Mancipe',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Revisora metodológica y pedagógica',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo desarrollo curricular',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Gloria Lida Alzáte Suárez',
           cargo: 'Adecuación instruccional',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodología para la formación virtual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -316,31 +316,31 @@ export default {
           nombre: 'Eulises Orduz Amézquita',
           cargo: 'Diseño web',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Manuel Felipe Echavarria Orozco',
           cargo: 'Desarrollo Fullstack',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -351,20 +351,20 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo:
             'Validación de recursos educativos digitales y vinculación al LMS',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabian Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

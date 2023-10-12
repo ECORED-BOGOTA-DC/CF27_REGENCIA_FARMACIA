@@ -83,7 +83,7 @@
         .p-4.p-lg-5(titulo="Adherencia al tratamiento" :icono="require('@/assets/curso/temas/tema2/img4.svg')")
           .row.justify-content-center
             .col-lg-7.order-lg-1.order-2
-              p.mb-5 Hace referencia directamente a la obediencia por parte del paciente al tomar la medicación de acuerdo con la dosificación prescrita por el medico; durante el tiempo indicado, sin que se interrumpa por la mejoría o no de los síntomas. 
+              p.mb-5 Hace referencia directamente a la obediencia por parte del paciente al tomar la medicación de acuerdo con la dosificación prescrita por el médico; durante el tiempo indicado, sin que se interrumpa por la mejoría o no de los síntomas. 
               .row.justify-content-center
                 .col-lg-10
                   figure
@@ -107,7 +107,7 @@
         .p-4.p-lg-5(titulo="Reconciliación medicamentosa" :icono="require('@/assets/curso/temas/tema2/img8.svg')")
           .row.justify-content-center
             .col-lg-7.order-lg-1.order-2
-              p.mb-5 Proceso asistencial que radica en revisar de forma integral el perfil farmacoterapéutico o historia actual medicamentosa del paciente cuando ingresa a una estancia hospitalaria; se logra con una lista completa de la medicación del paciente antes de ser hospitalizado, y se confronta con la prescrita por el medico en el momento del ingreso y evolución; esto con el fin de resolver las discrepancias encontradas. 
+              p.mb-5 Proceso asistencial que radica en revisar de forma integral el perfil farmacoterapéutico o historia actual medicamentosa del paciente cuando ingresa a una estancia hospitalaria; se logra con una lista completa de la medicación del paciente antes de ser hospitalizado, y se confronta con la prescrita por el médico en el momento del ingreso y evolución; esto con el fin de resolver las discrepancias encontradas. 
               .row.justify-content-center
                 .col-lg-10
                   figure
@@ -131,7 +131,7 @@
           .tarjeta.tarjeta-morada.p-5(titulo="Segunda víctima")
             p Se refiere específicamente al personal de salud que ha cometido el error al administrar un medicamento sin intención alguna de causar daño, ya que el hecho de ser causa de morbimortalidad en la población asistida, genera aumento de los costos asistenciales por demandas, la posible pérdida laboral o pérdida del prestigio personal, lo que genera inseguridad y daño psicológico a quienes cometieron el error. En Colombia se han documentado casos de suicidios por estrés y depresión crónica post evento.
           .tarjeta.tarjeta-morada.p-5(titulo="Medicamentos LASA")
-            p Se consideran de alto riego en el servicio farmacéutico, ya que son medicamentos que son parecidos en presentación (Look Alike), suenan o son parecidos en pronunciación (Sound Alike), lo que puede llegar a confundir a la hora de solicitarlos, dispensarlos y administrarlos.
+            p Se consideran de alto riego en el servicio farmacéutico, ya que son medicamentos que son parecidos en presentación (#[i Look Alike]), suenan o son parecidos en pronunciación (#[i Sound Alike]), lo que puede llegar a confundir a la hora de solicitarlos, dispensarlos y administrarlos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")

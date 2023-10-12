@@ -19,10 +19,10 @@
             ul.lista-ul--color
               li(data-aos="fade-left")
                 i.fas.fa-atom(style='color: #7E5EE3') 
-                p.mb-0 <b style="color: #7E5EE3">I. Farmacovigilancia pasiva:</b> es la que se realiza cuando quien reporta obtiene la información de manera abierta o directa.
+                p.mb-0 <b style="color: #7E5EE3"> Farmacovigilancia pasiva:</b> es la que se realiza cuando quien reporta obtiene la información de manera abierta o directa.
               li(data-aos="fade-left")
                 i.fas.fa-atom(style='color: #7E5EE3') 
-                p.mb-0 <b style="color: #7E5EE3">II. Farmacovigilancia activa:</b> es cuando la entidad reporta, programa y realiza una acción que se encamina a obtener la información.
+                p.mb-0 <b style="color: #7E5EE3"> Farmacovigilancia activa:</b> es cuando la entidad reporta, programa y realiza una acción que se encamina a obtener la información.
         .cajon.color-secundario.p-4(data-aos="flip-left")
           p.mb-0 El evento adverso no solo se presenta en los pacientes, también en el personal de salud, medio ambiente, inducido durante la utilización de medicamentos o dispositivos médicos. 
 
@@ -94,7 +94,7 @@
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p.mb-3(data-aos="fade-right") Las entidades prestadoras de servicios de salud deben articular en forma integral los programas de seguridad del paciente con los de farmacovigilancia, tecnovigilancia, reactivovigilancia y hemovigilancia, con el propósito determinante de relacionar la identificación, registro, análisis y gestión de los incidentes y eventos adversos que se pueden presentar durante la atención en salud, de tal manera que se aprenda del error y se aproveche la oportunidad de mejora.
         .cajon.color-acento-contenido.p-4.mb-3(data-aos="flip-right")
-          p.mb-0 Para profundizar el tema de farmacovigilancia, se invita al aprendiz a consultar los documentos <b>¿Qué es la farmacovigilancia? y Farmacovigilancia</b>, ubicados en el material complementario.
+          p.mb-0 Para profundizar el tema de farmacovigilancia, se invita al aprendiz a consultar los documentos <b>¿Qué es la farmacovigilancia? Y Farmacovigilancia</b>, ubicados en el material complementario.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left") 
         figure
           img(src="@/assets/curso/temas/tema3/img6.svg", alt="Imágen decorativa")

@@ -23,7 +23,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Figura 1
+          h5 Figura 1.
           span Ciclo de vida de los dispositivos médicos  
         figure.col-lg-8(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema4/img2.svg', alt='Imagen que contiene un esquema que contiene el ciclo de vida de los dispositivos médicos, el cual consta de:<br>Premercado.<br>Diseño y desarrollo.<br>Fabricación.<br>Registro sanitario.<br>Fabricantes e importadores.<br>INVIMA.<br>Eficacia, seguridad desempeño.<br>Postmercado.<br>Planeación.<br>Selección.<br>Adquisición.Instalación.<br>Uso.<br>Mantenimiento.<br>Disposición final.<br>Prestadores de servicios de salud-usuarios.<br>Efectividad seguridad desempeño.')
@@ -52,7 +52,7 @@
       p.text-center(data-aos="fade-up") <b>Los principios del programa nacional de tecnovigilancia son (ver figura 2):</b>
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
-          h5 Figura 2
+          h5 Figura 2.
           span Principios del programa de tecnovigilancia 
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen con un esquema que contiene los principios del programa de tecnovigilancia, los cuales son:<br>Trazabilidad de los dispositivos médicos.<br>Sensibilidad y representatividad.<br>Formación e información permanente de los actores involucrados.<br>Información veraz, oportuna y confidencial.<br>Articulación entre los actores del programa nacional de tecnovigilancia.')
@@ -156,7 +156,7 @@
     LineaTiempoD.color-acento-contenido.mb-5(data-aos="zoom-in")
       .row.justify-content-center(numero="1" titulo="Notificación")
         .col-lg-8.order-lg-1.order-2
-          ul.lista-ul--color.text-small.fa-ul2
+          ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-atom
               | Identificación del evento adverso o incidente.
@@ -166,14 +166,14 @@
             li 
               i.fas.fa-atom
               | Cada entidad debe adoptar o adaptar un formato único para el reporte de eventos e incidentes que sierva para los diferentes programas de vigilancia (tecnovigilancia, reactivovigilancia, hemovigilancia entre otros).
-          p.text-small Se presenta un ejemplo de un formato para la detección de eventos adversos.
+          p Se presenta un ejemplo de un formato para la detección de eventos adversos.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
           figure
             img(src='@/assets/curso/temas/tema4/img8.png', alt='Imagen con un ejemplo de un formato para la detección de eventos adversos, el cual consta de:<br>Módulo 1. Descripción de lo ocurrido.<br>Descripción del suceso adverso.<br>Acciones inseguras identificadas y/o fallas en barreras de seguridad.<br>1.<br>2.<br>3.<br>Factores contributivos.<br>1.<br>2.<br>3.<br>Modulo 2. Origen del reporte.<br>Fecha del reporte:<br>Hora del reporte:<br>Nombre de quien reporta:<br>Servicio que reporta:')
 
       .row.justify-content-center(numero="2" titulo="Registro y procesamiento")
         .col-lg-8.order-lg-1.order-2
-          ul.lista-ul--color.text-small.fa-ul2
+          ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-atom
               | Registro del evento adverso en la base de datos.
@@ -191,7 +191,7 @@
 
       .row.justify-content-center(numero="3" titulo="Clasificación y análisis")
         .col-lg-8.order-lg-1.order-2
-          ul.lista-ul--color.text-small.fa-ul2
+          ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-atom
               p.bm-0 <b>Evento adverso prevenible (errores de medicación)</b>, debe ser analizados a través de una herramienta (análisis causal), como, entre otros. Determinar causas del origen al evento adverso; para generar <b style="color: #00BCD4; font-weight: 400">acciones correctas o preventivas</b>.
@@ -205,8 +205,16 @@
               i.fas.fa-atom
               | INVIMA recomienda se analicen con base en la herramienta algoritmo de naranjo.
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-          figure
-            img(src='@/assets/curso/temas/tema4/img11.svg', alt='Texto que describa la imagen') 
+          .px-4
+            .row
+              .col-12.bg-c1.mb-4.mt-1
+                .p-4
+                  p.txt-c1.mb-0 #[b Acciones preventivas]
+                  p Identificar, analizar y eliminar las causas de los posibles eventos adversos, a fin de prevenir que estas situaciones se materialicen.
+              .col-12.bg-c2
+                .p-4
+                  p.txt-c2.mb-0 #[b Acciones correctivas]
+                  p Identificar, analizar y eliminar las causas de los eventos adversos detectadas con el fin de prevenir que estas situaciones puedan presentarse de nuevo.
 
       .row.justify-content-center(numero="4" titulo="Protocolo de Londres")
         p.bm-0 Ejemplo de protocolo de Londres,  metodología para el análisis de eventos adversos.
@@ -220,8 +228,8 @@
 
       .row.justify-content-center(numero="6" titulo="Notificación")
         .col-lg-6.order-lg-1.order-2
-          p.text-small Los reportes pueden enviarse por los siguientes medios.
-          ul.lista-ul--color.text-small.fa-ul2
+          p Los reportes pueden enviarse por los siguientes medios.
+          ul.lista-ul--color.fa-ul2
             li 
               i.fas.fa-atom
               | Mediante la página web del INVIMA www.invima.gov.co
